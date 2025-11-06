@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url("/Images/flower.jpg");
+    background-image: url("/Images/bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -44,25 +44,26 @@ body{
 
     
  .home-page{
-    padding: 200px;
+    padding: 500px;
     border: 11px solid rgb(253, 244, 244);
     text-align: center;
     color: aliceblue;
     
  }   
 
-.home-page h1{
-    color: white;
-}
+ .text{
+    border: 1px solid rgb(202, 202, 202);
+    padding: 50px;
+ }
 
 
-.home-page img{
 
-    height: 500px;
-    width: 800px;
-    border-radius: 20px;
 
-}
+
+
+
+
+
 
 
 
@@ -74,6 +75,12 @@ body{
     color: aliceblue;
     
  }   
+
+
+
+
+
+
 
 
 .Contactme{
